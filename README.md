@@ -1,6 +1,6 @@
 # New Statistical Technique for Analyzing MIC-based Susceptibility Data
 
-J van de Kassteele, MG van Santen-Verheuvel, FDH Koedijk, AP van Dam, MAB van der Sande, AJ. de Neeling
+J van de Kassteele, MG van Santen-Verheuvel, FDH Koedijk, AP van Dam, MAB van der Sande, AJ de Neeling. *Antimicrobial Agents and Chemotherapy*, 2012, **56**(3), 1557–1563. [paper](http://aac.asm.org/content/56/3/1557.full)
 
 ## Abstract
 
